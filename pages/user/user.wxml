@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+  用户名： {{userName}}
+  </view>
+</view>

@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <input class='userNameInput' bindinput='userNameInput' placeholder='请输入用户名' placeholder-style='font-Size:0.8rem' ></input>
+    <input class='passwordInput' bindinput='passworldInput' placeholder='请输入密码' placeholder-style='font-Size:0.8rem'></input>
+    <button class='loginBtn' type='primary' catchtap="login"> 登录 </button>
+  </view>
+</view>
