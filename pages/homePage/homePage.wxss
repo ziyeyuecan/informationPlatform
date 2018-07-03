@@ -1,1 +1,15 @@
 /**homePage.wxss**/
+.container {
+
+}
+swiper {
+  width: 95%;
+  height: 350rpx;
+  background: #DDDDDD;
+}
+
+swiper-item image {
+width: 100%;
+height: 100%;
+}
+
